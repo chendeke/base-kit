@@ -1,11 +1,11 @@
 package sd
 
 import (
-	"github.com/chendeke/config"
 	"github.com/chendeke/base-kit/retry"
 	"github.com/chendeke/base-kit/sd/consul"
 	"github.com/chendeke/base-kit/sd/direct"
 	"github.com/chendeke/base-kit/sd/etcdv3"
+	"github.com/chendeke/config"
 )
 
 type Config struct {

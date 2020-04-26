@@ -3,7 +3,7 @@ package middleware
 import (
 	"context"
 	"github.com/chendeke/base-kit/counter"
-	//"git.aimap.io/location/genproto/location-apis/mojo/core"
+	//"github.com/chendeke/genproto/location-apis/mojo/core"
 	"github.com/go-kit/kit/endpoint"
 	"github.com/go-kit/kit/metrics"
 	"time"

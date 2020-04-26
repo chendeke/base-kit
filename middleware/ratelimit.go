@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"context"
-	"git.aimap.io/location/genproto/location-apis/mojo/core"
+	"github.com/chendeke/genproto/location-apis/mojo/core"
 	"github.com/go-kit/kit/endpoint"
 	"golang.org/x/time/rate"
 	"net/http"
